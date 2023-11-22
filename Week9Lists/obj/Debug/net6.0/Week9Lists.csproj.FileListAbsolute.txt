@@ -1,0 +1,14 @@
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\obj\Debug\net6.0\Week9Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\obj\Debug\net6.0\Week9Lists.AssemblyInfoInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\obj\Debug\net6.0\Week9Lists.AssemblyInfo.cs
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\obj\Debug\net6.0\Week9Lists.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\bin\Debug\net6.0\Week9Lists.exe
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\bin\Debug\net6.0\Week9Lists.deps.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\bin\Debug\net6.0\Week9Lists.runtimeconfig.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\bin\Debug\net6.0\Week9Lists.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\bin\Debug\net6.0\Week9Lists.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\obj\Debug\net6.0\Week9Lists.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\obj\Debug\net6.0\refint\Week9Lists.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\obj\Debug\net6.0\Week9Lists.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\obj\Debug\net6.0\Week9Lists.genruntimeconfig.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week9Lists\Week9Lists\obj\Debug\net6.0\ref\Week9Lists.dll
